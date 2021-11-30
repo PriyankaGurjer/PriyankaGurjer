@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyankaGurjer
-- 👀 I’m interested in DevOps 2021
+- 👀 I’m interested in DevOps 2021 plan
 - 🌱 I’m currently learning Devops tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at Priyanka.gurjer@outlook.com
